@@ -72,7 +72,7 @@ jobs:
         required: true
         type: string
 
-jobs:
+      jobs:
   generate-config:
     runs-on: ubuntu-latest
     outputs:
